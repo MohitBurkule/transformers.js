@@ -1,7 +1,7 @@
 
 
 import Chart from 'https://cdn.jsdelivr.net/npm/chart.js@4.3.0/dist/chart.umd.min.js';
-import Prism from 'prismjs';
+import Prism from 'https://cdnjs.cloudflare.com/ajax/libs/prism/9000.0.1/prism.min.js';
 
 // Import code and styles for supported languages
 import 'prismjs/components/prism-javascript';
