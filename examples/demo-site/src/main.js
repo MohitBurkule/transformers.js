@@ -10,8 +10,8 @@ import Prism from 'https://cdnjs.cloudflare.com/ajax/libs/prism/9000.0.1/prism.m
 //import 'prismjs/components/prism-clike';
 //import 'prismjs/themes/prism.css'
 
-import './theme.css';
-import './style.css';
+//import './theme.css';
+//import './style.css';
 
 // Initialise worker
 const worker = new Worker(new URL('./worker.js', import.meta.url), {
