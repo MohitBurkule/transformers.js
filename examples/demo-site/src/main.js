@@ -1,6 +1,6 @@
 
 
-import Chart from 'chart.js/auto';
+import Chart from 'https://cdn.jsdelivr.net/npm/chart.js@4.3.0/dist/chart.umd.min.js';
 import Prism from 'prismjs';
 
 // Import code and styles for supported languages
