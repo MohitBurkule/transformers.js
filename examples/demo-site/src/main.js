@@ -4,11 +4,11 @@ import Chart from 'https://cdn.jsdelivr.net/npm/chart.js@4.3.0/dist/chart.umd.mi
 import Prism from 'https://cdnjs.cloudflare.com/ajax/libs/prism/9000.0.1/prism.min.js';
 
 // Import code and styles for supported languages
-import 'prismjs/components/prism-javascript';
-import 'prismjs/components/prism-python';
-import 'prismjs/components/prism-markdown';
-import 'prismjs/components/prism-clike';
-import 'prismjs/themes/prism.css'
+//import 'prismjs/components/prism-javascript';
+//import 'prismjs/components/prism-python';
+//import 'prismjs/components/prism-markdown';
+//import 'prismjs/components/prism-clike';
+//import 'prismjs/themes/prism.css'
 
 import './theme.css';
 import './style.css';
