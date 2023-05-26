@@ -74,7 +74,7 @@ class PipelineFactory {
 
 class TranslationPipelineFactory extends PipelineFactory {
     static task = 'translation';
-    static model = 'Xenova/t5-small';
+    static model = 'BlackSamorez/rudialogpt3_medium_based_on_gpt2_2ch';//'Xenova/t5-small';
 }
 
 class TextGenerationPipelineFactory extends PipelineFactory {
